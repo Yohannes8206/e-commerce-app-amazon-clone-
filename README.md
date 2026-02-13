@@ -18,6 +18,13 @@ Firebase Integration: Connected to a Firebase database for data persistence.
 
 ![photo_3_2026-02-13_02-13-57](https://github.com/user-attachments/assets/ddf1d37b-2092-4344-82fd-509762467bea)
 
+![photo_1_2026-02-13_02-13-57](https://github.com/user-attachments/assets/fd041820-8768-41ff-96a5-be14dab04f0f)
+
+![photo_2_2026-02-13_02-13-57](https://github.com/user-attachments/assets/b6c764db-a7d5-4a5c-be5c-e962679b72d8)
+
+
+
+
 
 
 🚀 How to Run the Project
